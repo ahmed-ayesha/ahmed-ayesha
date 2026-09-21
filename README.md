@@ -5,7 +5,7 @@
 I am an applied microeconomist working in development, behavioral, and experimental economics. My research examines rural credit markets, microfinance, and risk and insurance. I use experimental and quasi-experimental methods to evaluate interventions and inform policy.
 
 [LinkedIn](https://www.linkedin.com/in/aayeshahmed) ·
-[CV](https://ahmed-ayesha.github.io/files/resume.pdf) ·
+[CV](https://ahmed-ayesha.github.io/files/ahmed_resume.pdf) ·
 ashahmed@ucdavis.edu
 
 ### Fields
